@@ -1,10 +1,10 @@
-# Modeberry
+# Pull models
 
-Sync Typescript to Contentful. Two way. Models and content.
+```bash
+mbfactory pull <pull-type> <plugin> <path>
+```
 
-## mbfactory-docs
-
-Docs and examples for @modelberry/mbfactory
+## Table of contents
 
 - [Getting started](https://github.com/modelberry/factory/tree/main/packages/mbfactory/docs/getting-started.md)
 - [Push models](https://github.com/modelberry/factory/tree/main/packages/mbfactory/docs/push-models.md)
