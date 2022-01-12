@@ -1,0 +1,34 @@
+{
+  "name": "@modelberry/mbfactory-docs",
+  "version": "1.0.0",
+  "description": "Docs and examples for @modelberry/mbfactory",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs",
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/modelberry/mbfactory-docs.git"
+  },
+  "keywords": [
+    "react",
+    "gatsby",
+    "contentful",
+    "modelberry",
+    "mbfactory"
+  ],
+  "author": "Jacco Meijer <jacco@jaccomeijer.nl> (https://www.jaccomeijer.nl/)",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/modelberry/mbfactory-docs/issues"
+  },
+  "homepage": "https://github.com/modelberry/mbfactory-docs#readme",
+  "dependencies": {
+    "@modelberry/mbfactory": "6.30.8",
+    "@modelberry/plugin-contentful": "6.30.8"
+  }
+}

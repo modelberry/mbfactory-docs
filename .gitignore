@@ -1,0 +1,42 @@
+# Build folders and caches
+.cache
+.eslintcache
+.next
+build/
+compiled-config
+dist/
+public/
+reduxcache*
+
+# Node, npm and yarn
+.npm
+.yarn-integrity
+*.log
+lerna-debug.log*
+logs
+node_modules/
+npm-debug.log*
+report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
+yarn-debug.log*
+yarn-error.log*
+
+# dotenv environment variables file
+.env*
+
+# IDE's
+.vscode
+.vscode-test
+.idea/
+atlassian-ide-plugin.xml
+
+# MacOS
+.DS_Store
+!/.gitignore
+
+# Certificates
+*.jwk
+*.pem
+*.map
+
+# Examples from this repo
+my-models-folder/

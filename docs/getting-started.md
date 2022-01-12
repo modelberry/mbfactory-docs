@@ -2,7 +2,7 @@
 
 ## Requirements
 
-Install [Node.js](https://nodejs.org) version 16 or higher.
+Mbfactory requires [Node.js](https://nodejs.org) version 16 or higher.
 
 ## Install
 
@@ -24,13 +24,20 @@ git clone git@github.com:modelberry/mbfactory-docs.git
 
 ## Setup environment
 
-Rename [the env template](../template.env.development) to: `.env.development`
+Rename [`template.env.development`](../template.env.development) to: `.env.development`
 
-Edit the project name and copy the secrets from the Contentful web ui under `Settings -> API keys`.
+Edit the env file and set:
+
+- `CONTENTFUL_PERSONAL_ACCESS_TOKEN` ([where can I find this?](https://www.contentful.com/help/personal-access-tokens/#how-to-get-a-personal-access-token-the-web-app))
+- `CONTENTFUL_SPACE_ID` ([where can I find this?](https://www.contentful.com/help/find-space-id/))
+
+## Typescript compiler API
+
+Mbfactory uses the [Typescript compiler API](https://github.com/Microsoft/TypeScript/wiki/Using-the-Compiler-API) which requires a valid `tsconfig.json`. Use the empty [`tsconfig.json`](../tsconfig.json) in this repository or create your own.
 
 ## Next
 
-You're ready to [push some models](./push-models.md)!
+[Push models](./push-models.md) from typescript to Contentful.
 
 ## Table of contents
 

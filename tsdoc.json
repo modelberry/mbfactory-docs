@@ -1,0 +1,100 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/tsdoc/v0/tsdoc.schema.json",
+  "tagDefinitions": [
+    {
+      "allowMultiple": false,
+      "syntaxKind": "block",
+      "tagName": "@modelberry"
+    },
+    {
+      "allowMultiple": false,
+      "syntaxKind": "inline",
+      "tagName": "@description"
+    },
+    {
+      "allowMultiple": false,
+      "syntaxKind": "inline",
+      "tagName": "@disabled"
+    },
+    {
+      "allowMultiple": false,
+      "syntaxKind": "inline",
+      "tagName": "@displayField"
+    },
+    {
+      "allowMultiple": false,
+      "syntaxKind": "inline",
+      "tagName": "@ignore"
+    },
+    {
+      "allowMultiple": false,
+      "syntaxKind": "inline",
+      "tagName": "@helpText"
+    },
+    {
+      "allowMultiple": false,
+      "syntaxKind": "inline",
+      "tagName": "@itemsType"
+    },
+    {
+      "allowMultiple": false,
+      "syntaxKind": "inline",
+      "tagName": "@itemsLinkType"
+    },
+    {
+      "allowMultiple": true,
+      "syntaxKind": "inline",
+      "tagName": "@itemsValidations"
+    },
+    {
+      "allowMultiple": false,
+      "syntaxKind": "inline",
+      "tagName": "@linkType"
+    },
+    {
+      "allowMultiple": false,
+      "syntaxKind": "inline",
+      "tagName": "@locale"
+    },
+    {
+      "allowMultiple": false,
+      "syntaxKind": "inline",
+      "tagName": "@localized"
+    },
+    {
+      "allowMultiple": false,
+      "syntaxKind": "inline",
+      "tagName": "@name"
+    },
+    {
+      "allowMultiple": false,
+      "syntaxKind": "inline",
+      "tagName": "@omitted"
+    },
+    {
+      "allowMultiple": false,
+      "syntaxKind": "inline",
+      "tagName": "@plugin"
+    },
+    {
+      "allowMultiple": false,
+      "syntaxKind": "inline",
+      "tagName": "@required"
+    },
+    {
+      "allowMultiple": false,
+      "syntaxKind": "inline",
+      "tagName": "@type"
+    },
+    {
+      "allowMultiple": true,
+      "syntaxKind": "inline",
+      "tagName": "@validations"
+    },
+    {
+      "allowMultiple": false,
+      "syntaxKind": "inline",
+      "tagName": "@widgetId"
+    }
+  ]
+}
