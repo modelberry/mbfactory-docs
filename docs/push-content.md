@@ -22,7 +22,7 @@ The Contentful Web App should show two entries:
 - Modelberry (of type topic)
 
 > **NOTE** The `Home` entry refers to the `Modelberry` entry. The `Home` entry
-> cannot be published until the `Modelberry` model has been pushed.
+> cannot be published until the `Modelberry` entry has been pushed.
 
 ## Next
 
