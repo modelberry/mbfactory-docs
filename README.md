@@ -6,6 +6,11 @@ Sync Typescript to Contentful. Two way. Models and content.
 
 These are the docs and examples for the npm package [@modelberry/mbfactory](https://www.npmjs.com/package/@modelberry/mbfactory).
 
+## Get started
+
+[Get started](./docs/getting-started.md) by cloning this repo and setup your
+access tokens.
+
 ## Table of contents
 
 - [Getting started](./docs/getting-started.md)
