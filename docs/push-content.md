@@ -24,6 +24,10 @@ The Contentful Web App should show two entries:
 > **NOTE** The `Home` entry refers to the `Modelberry` entry. The `Home` entry
 > cannot be published until the `Modelberry` entry has been pushed.
 
+## Pushing content with entry links
+
+Content entry links are handled as described [here](https://github.com/modelberry/factory/blob/main/packages/plugin-contentful/src/push-content/README.md).
+
 ## Next
 
 [Pull models](./pull-models.md) from Contentful to typescript.

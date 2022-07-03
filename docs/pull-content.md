@@ -22,6 +22,10 @@ mbfactory pull content @modelberry/plugin-contentful/plain my-models-folder
 - `contentful-page-content.ts`
 - `contentful-topic-content.ts`
 
+## Pulling content with entry links
+
+Content entry links are handled as described [here](https://github.com/modelberry/factory/blob/main/packages/plugin-contentful/src/pull-content/README.md).
+
 ## Next
 
 [TSDoc tags overview](./tsdocs-tags-overview.md).
