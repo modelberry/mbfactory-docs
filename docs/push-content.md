@@ -26,7 +26,7 @@ The Contentful Web App should show two entries:
 
 ## Pushing content with entry links
 
-Content entry links are handled as described [here](https://github.com/modelberry/factory/blob/main/packages/plugin-contentful/src/push-content/README.md).
+Content entry links are handled as described [here](https://github.com/modelberry/factory/blob/main/packages/plugin-contentful/src/commands/push-content/README.md).
 
 ## Next
 
@@ -39,4 +39,6 @@ Content entry links are handled as described [here](https://github.com/modelberr
 - [Pull models](./pull-models.md)
 - [Push content](./push-content.md)
 - [Pull content](./pull-content.md)
+- [Run as script](./run-as-script.md)
+- [Experimental features](./experimental-features.md)
 - [TSDoc tags overview](./tsdocs-tags-overview.md)

@@ -8,7 +8,11 @@
     "example": "examples"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "pull-content": "mbfactory pull content @modelberry/plugin-contentful/plain ./my-models-folder",
+    "pull-models": "mbfactory pull models @modelberry/plugin-contentful/plain ./my-models-folder",
+    "push-content": "mbfactory push content ./examples/main-content.ts",
+    "push-models": "mbfactory push models ./examples/main.ts"
   },
   "repository": {
     "type": "git",
@@ -28,7 +32,7 @@
   },
   "homepage": "https://github.com/modelberry/mbfactory-docs#readme",
   "dependencies": {
-    "@modelberry/mbfactory": "6.30.8",
-    "@modelberry/plugin-contentful": "6.30.8"
+    "@modelberry/mbfactory": "7.0.4",
+    "@modelberry/plugin-contentful": "7.0.4"
   }
 }

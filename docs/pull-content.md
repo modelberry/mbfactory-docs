@@ -24,11 +24,11 @@ mbfactory pull content @modelberry/plugin-contentful/plain my-models-folder
 
 ## Pulling content with entry links
 
-Content entry links are handled as described [here](https://github.com/modelberry/factory/blob/main/packages/plugin-contentful/src/pull-content/README.md).
+Content entry links are handled as described [here](https://github.com/modelberry/factory/blob/main/packages/plugin-contentful/src/commands/pull-content/README.md).
 
 ## Next
 
-[TSDoc tags overview](./tsdocs-tags-overview.md).
+[Run as script](./run-as-script.md)
 
 ## Table of contents
 
@@ -37,4 +37,6 @@ Content entry links are handled as described [here](https://github.com/modelberr
 - [Pull models](./pull-models.md)
 - [Push content](./push-content.md)
 - [Pull content](./pull-content.md)
+- [Run as script](./run-as-script.md)
+- [Experimental features](./experimental-features.md)
 - [TSDoc tags overview](./tsdocs-tags-overview.md)

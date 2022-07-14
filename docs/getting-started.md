@@ -46,4 +46,6 @@ Mbfactory uses the [Typescript compiler API](https://github.com/Microsoft/TypeSc
 - [Pull models](./pull-models.md)
 - [Push content](./push-content.md)
 - [Pull content](./pull-content.md)
+- [Run as script](./run-as-script.md)
+- [Experimental features](./experimental-features.md)
 - [TSDoc tags overview](./tsdocs-tags-overview.md)
