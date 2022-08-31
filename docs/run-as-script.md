@@ -3,7 +3,7 @@
 ## Package.json
 
 Mbfactory can run as a script entry from package.json. This repository has a
-[script section](../package.json) as an example.
+[scripts section](../package.json#L10) as an example.
 
 ## Run a script
 
@@ -17,6 +17,12 @@ To run the `push-models` script:
 
 ```bash
 npm run push-models
+```
+
+To run the `push-models` script with parameters:
+
+```bash
+npm run push-models -- --filter topic
 ```
 
 To show all confirgured scripts:
