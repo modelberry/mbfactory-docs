@@ -18,6 +18,7 @@ access tokens.
 - [Pull models](./docs/pull-models.md)
 - [Push content](./docs/push-content.md)
 - [Pull content](./docs/pull-content.md)
+- [Diff models](./docs/diff-models.md)
 - [Run as script](./docs/run-as-script.md)
 - [Experimental features](./docs/experimental-features.md)
 - [TSDoc tags overview](./docs/tsdocs-tags-overview.md)

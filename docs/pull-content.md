@@ -28,7 +28,7 @@ Content entry links are handled as described [here](https://github.com/modelberr
 
 ## Next
 
-[Run as script](./run-as-script.md)
+[Diff models](./diff-models.md)
 
 ## Table of contents
 
@@ -37,6 +37,7 @@ Content entry links are handled as described [here](https://github.com/modelberr
 - [Pull models](./pull-models.md)
 - [Push content](./push-content.md)
 - [Pull content](./pull-content.md)
+- [Diff models](./diff-models.md)
 - [Run as script](./run-as-script.md)
 - [Experimental features](./experimental-features.md)
 - [TSDoc tags overview](./tsdocs-tags-overview.md)

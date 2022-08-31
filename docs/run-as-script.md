@@ -36,6 +36,7 @@ npm run
 - [Pull models](./pull-models.md)
 - [Push content](./push-content.md)
 - [Pull content](./pull-content.md)
+- [Diff models](./diff-models.md)
 - [Run as script](./run-as-script.md)
 - [Experimental features](./experimental-features.md)
 - [TSDoc tags overview](./tsdocs-tags-overview.md)
