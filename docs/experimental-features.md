@@ -4,11 +4,11 @@
 
 New features are developed with a `experimental-` prefix to the command.
 
-## mbfactory pull-diff conent
+## mbfactory experimental-pull-diff conent
 
 Not yet implemented
 
-## mbfactory push-diff conent
+## mbfactory experimental-push-diff conent
 
 Not yet implemented
 
