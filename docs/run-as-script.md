@@ -3,7 +3,7 @@
 ## Package.json
 
 Mbfactory can run as a script entry from package.json. This repository has a
-[script section](../package.json) as an exampole.
+[script section](../package.json) as an example.
 
 ## Run a script
 
