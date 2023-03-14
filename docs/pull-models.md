@@ -13,7 +13,7 @@ This command fetches all models from Contentful and builds an
 are written as typescript source files to the `my-models-folder`.
 
 ```bash
-mbfactory pull models @modelberry/plugin-contentful/plain my-models-folder
+mbfactory pull models @modelberry/plugin-contentful my-models-folder
 ```
 
 `my-models-folder` should contain these files:

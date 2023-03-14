@@ -13,7 +13,7 @@ This command fetches all entries from Contentful and builds an
 The AST's are written as typescript source files to the `my-models-folder`.
 
 ```bash
-mbfactory pull content @modelberry/plugin-contentful/plain my-models-folder
+mbfactory pull content @modelberry/plugin-contentful my-models-folder
 ```
 
 `my-models-folder` should contain these files:

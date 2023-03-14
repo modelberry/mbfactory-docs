@@ -5,7 +5,7 @@ export type TopicVariant =
   | 'card'
 
 /** @modelberry
- * - {@plugin "@modelberry/plugin-contentful/plain"}
+ * - {@plugin "@modelberry/plugin-contentful"}
  * - {@type topic}
  * - {@displayField title}
  * - {@description Topic}

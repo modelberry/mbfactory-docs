@@ -2,7 +2,7 @@ import { ContentfulAsset } from './contentful-asset'
 import { ContentfulTopic } from './contentful-topic'
 
 /** @modelberry
- * - {@plugin "@modelberry/plugin-contentful/plain"}
+ * - {@plugin "@modelberry/plugin-contentful"}
  * - {@type page}
  * - {@displayField title}
  * - {@description Page}

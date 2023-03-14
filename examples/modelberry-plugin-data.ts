@@ -8,9 +8,9 @@
 // - typescript cannot be used inside the object
 //
 
-import { ModelberryPluginData } from '@modelberry/plugin-contentful/plain'
+import { ModelberryPluginData } from '@modelberry/plugin-contentful'
 export const modelberryPluginData: ModelberryPluginData = {
-  '@modelberry/plugin-contentful/plain': {
+  '@modelberry/plugin-contentful': {
     validations: {
       'linkContentType-topic': { linkContentType: ['topic'] },
       'regexp-path': {

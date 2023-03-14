@@ -10,7 +10,7 @@ in Contentful.
 
 ```ts
 /** @modelberry
- * - {@plugin "@modelberry/plugin-contentful/plain"}
+ * - {@plugin "@modelberry/plugin-contentful"}
  * - {@type someModel}
  * - {@displayField title}
  * - {@description Some model description}
@@ -179,7 +179,7 @@ Required. Sets the plugin for an interface. Double quotes are required by the
 TSDocs parser.
 
 ```ts
-{@plugin "@modelberry/plugin-contentful/plain"}
+{@plugin "@modelberry/plugin-contentful"}
 ```
 
 ---
