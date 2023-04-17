@@ -226,6 +226,14 @@ Sets the widget id for a field.
 {@widgetId entryLinkEditor}
 ```
 
+### @@widgetNamespace
+
+Sets the widget namespace for a field.
+
+```ts
+{@widgetNamespace app}
+```
+
 ---
 
 ## Table of contents
