@@ -25,7 +25,7 @@ To run the `push-models` script with parameters:
 npm run push-models -- --filter topic
 ```
 
-To show all confirgured scripts:
+To show all configured scripts:
 
 ```bash
 npm run
