@@ -32,7 +32,7 @@
   },
   "homepage": "https://github.com/modelberry/mbfactory-docs#readme",
   "dependencies": {
-    "@modelberry/mbfactory": "8.0.6",
-    "@modelberry/plugin-contentful": "8.0.6"
+    "@modelberry/mbfactory": "8.0.7",
+    "@modelberry/plugin-contentful": "8.0.7"
   }
 }
